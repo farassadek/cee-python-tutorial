@@ -1,6 +1,6 @@
 # About this tutorial
 
-This tutorial uses Jupyter Notebook previously known as IPython Notebook.
+This tutorial uses Jupyter Notebook (previously known as IPython Notebook) files.
 From "https://ipython.org/notebook.html", Jupyter Notebook is an  interactive computational environment, 
 in which you can combine code execution, rich text, mathematics, plots and rich media.
 
